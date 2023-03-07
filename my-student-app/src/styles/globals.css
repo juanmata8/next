@@ -1,0 +1,19 @@
+#columnaIzq {
+  height: 100%;
+  width: 25%;
+  border: 1px solid black;
+  top: 0px;
+  margin-left: 20%;
+  margin-top: 0px;
+
+}
+
+#columnaDer {
+  height: 100%;
+  width: 75%;
+  border: 1px solid black;
+  top: 0px;
+  margin-left: 20%;
+  margin-top: 0px;
+
+}
